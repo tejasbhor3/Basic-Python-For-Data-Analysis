@@ -1,0 +1,9 @@
+An essential piece of analysis of large data is efficient summarization: computing aggregations like sum(), mean(), median(), min(), and max(), in which a single number gives insight into the nature of a potentially large dataset. 
+
+In this section, we'll explore aggregations in Pandas namely the following functions:
+
+1. Crosstab
+
+2. Groupby
+
+3. Pivot Table
